@@ -5,4 +5,5 @@ Wizard Pong is a pong game that is created for CS50 Problem Set 0. The game is c
 Visit the Scratch link: https://scratch.mit.edu/projects/711721445/
 
 # Some Screenshots from the Apps 
-![github planetary](https://user-images.githubusercontent.com/95561298/146924525-8b143316-19e7-42c6-b4fa-5b59f53a101a.PNG)
+![cs50 pset 0 ss1 ](https://user-images.githubusercontent.com/95561298/178139018-6e0da0f1-185c-4887-8dde-b528f854dd0e.png)
+![cs50 pset 0 ss2](https://user-images.githubusercontent.com/95561298/178139025-4b98da6e-e2bc-4b92-9660-f7cc49a3e08e.png)
