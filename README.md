@@ -5,11 +5,5 @@ Wizard Pong is a game that is created for CS50 Problem Set 0. The game is create
 Visit the Scratch link: https://scratch.mit.edu/projects/711721445/
 
 # Some Screenshots from the Game 
-<a href="url"><img src="http://url.to/image.png](https://github.com/favicon.ico](https://user-images.githubusercontent.com/95561298/178139018-6e0da0f1-185c-4887-8dde-b528f854dd0e.png" align="left" height="48" width="48" ></a>
-<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
-
-
-<img src="https://user-images.githubusercontent.com/95561298/178139018-6e0da0f1-185c-4887-8dde-b528f854dd0e.png" height="500" width="1000">
-<img src="https://user-images.githubusercontent.com/95561298/178139025-4b98da6e-e2bc-4b92-9660-f7cc49a3e08e.png" height="500" width="1000">
-![cs50 pset 0 ss1 ](https://user-images.githubusercontent.com/95561298/178139018-6e0da0f1-185c-4887-8dde-b528f854dd0e.png  | width=100)
-![cs50 pset 0 ss2](https://user-images.githubusercontent.com/95561298/178139025-4b98da6e-e2bc-4b92-9660-f7cc49a3e08e.png  | width=100)
+<img src="https://user-images.githubusercontent.com/95561298/178139018-6e0da0f1-185c-4887-8dde-b528f854dd0e.png" height="500" width="750">
+<img src="https://user-images.githubusercontent.com/95561298/178139025-4b98da6e-e2bc-4b92-9660-f7cc49a3e08e.png" height="500" width="750">
