@@ -11,7 +11,7 @@ Wizard Pong is a game that is created for CS50 Problem Set 0. The game is create
 <img src="https://user-images.githubusercontent.com/95561298/178139025-4b98da6e-e2bc-4b92-9660-f7cc49a3e08e.png" height="400" width="550">
 
 ## Link
-Visit this Scratch link to play the game!: https://scratch.mit.edu/projects/711721445/
+Visit this Scratch link to play the game! https://scratch.mit.edu/projects/711721445/
 
 # Week 1: C (Credit)
 Credit is a program that is created for CS50 Problem Set 1. The program is used to check the types of credit cards and it is created by using C. The users will be prompted to enter a credit card number in integers. After that, the program will be classified whether the credit card number is AMEX (American Express), MASTERCARD, VISA, or INVALID. The validity of the Visa card is checked by using Luhn's Algorithm. 
@@ -220,7 +220,7 @@ In this web application, it consists of 4 sections with different functionalitie
 3) ``Remove``: The food will be removed from the food wheel.
 4) ``History``: The history that keeps track of all the foods added and removed from the wheel.
 
-Visit the video demo here!: https://www.youtube.com/watch?v=r1k6uTqmVLE
+Visit the video demo here! https://www.youtube.com/watch?v=r1k6uTqmVLE
 
 That's all! This was CS50! 
 
