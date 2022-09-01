@@ -206,7 +206,19 @@ Finance has 7 functionalities:
 7) **History**: The user is able to check the transaction history such as buying or selling stock. 
 
 # Final Project (Food Wheel) 
-Food Wheel is a simple web application that helps people to decide what to eat! The users can add all their favorite foods onto the food wheel and let the food wheel decides the meal for them.
+Not sure what to eat for dinner tonight? Always worried about what to eat after studying or working? No worries, Food Wheel is here to help you to solve the problem! Food Wheel is a web application that helps people to decide what to eat! The users can add all their favorite foods onto the food wheel and let the food wheel decides the dinner for them. Other than that, the users can also remove their favorite foods from the food wheel. In other words, users are allowed to customize their own food wheels by adding and removing their favorite foods on the food wheel. The food wheel will expand and shrink depending on the number of foods on the food wheel.
+
+## Tech Stack Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python, SQLite
+- Frameworks: Flask, Bootstrap
+
+## Functionalities
+In this web application, it consists of 4 sections with different functionalities:
+1) ``Wheel``: The food wheel that consists of all the user's favorite foods to pick from.
+2) ``Add``: The food will be added to the food wheel.
+3) ``Remove``: The food will be removed from the food wheel.
+4) ``History``: The history that keeps track of all the foods added and removed from the wheel.
 
 Visit the video demo here!: https://www.youtube.com/watch?v=r1k6uTqmVLE
 
