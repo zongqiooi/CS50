@@ -103,7 +103,7 @@ The speller consists of five functions:
 # Week 6: Python (DNA)
 DNA is a program that is created for CS50 Problem Set 6. The program is used to identify a person based on their DNA and it is created by using Python. The users have to run the Python file with two extra command line arguments, in the format of "python dna.py databases/*.csv sequences/*.txt", where "databases/*.csv" can be any csv files that can be found in the databases directory and "sequences/*.txt" can be any text files that can be found in the sequences directory. 
 
-# Information about DNA 
+## Information about DNA 
 DNA, the carrier of genetic information in living things, has been used in criminal justice for decades. But how, exactly, does DNA profiling work? Given a sequence of DNA, how can forensic investigators identify to whom it belongs?
 
 Well, DNA is really just a sequence of molecules called nucleotides, arranged into a particular shape (a double helix). Every human cell has billions of nucleotides arranged in sequence. Each nucleotide of DNA contains one of four different bases: adenine (A), cytosine (C), guanine (G), or thymine (T). Some portions of this sequence (i.e., genome) are the same, or at least very similar, across almost all humans, but other portions of the sequence have a higher genetic diversity and thus vary more across the population.
@@ -131,7 +131,7 @@ In practice, since analysts know on which chromosome and at which location in th
 
 Your task is to write a program that will take a sequence of DNA and a CSV file containing STR counts for a list of individuals and then output to whom the DNA (most likely) belongs.
 
-# Some Screenshots from DNA
+## Some Screenshots from DNA
 ![image](https://user-images.githubusercontent.com/95561298/180004109-d59d689d-87c6-41fd-883a-aad7fb79c66f.png)
 
 # Week 7: SQL (Fiftyville)
@@ -205,7 +205,7 @@ Finance has 7 functionalities:
 6) **Sell**: The user is able to sell a particular stock that they have purchased. 
 7) **History**: The user is able to check the transaction history such as buying or selling stock. 
 
-## Final Project (Food Wheel) 
+# Final Project (Food Wheel) 
 Food Wheel is a simple web application that helps people to decide what to eat! The users can add all their favorite foods onto the food wheel and let the food wheel decides the meal for them.
 
 Visit the video demo here!: https://www.youtube.com/watch?v=r1k6uTqmVLE
