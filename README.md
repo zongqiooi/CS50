@@ -222,7 +222,9 @@ In this web application, it consists of 4 sections with different functionalitie
 3) ``Remove``: The food will be removed from the food wheel.
 4) ``History``: The history that keeps track of all the foods added and removed from the wheel.
 
+## Link
 Visit the video demo here! https://www.youtube.com/watch?v=r1k6uTqmVLE
+
 
 That's all! This was CS50! 
 
