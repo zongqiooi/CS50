@@ -179,7 +179,9 @@ Design a webpage using HTML, CSS, and JavaScript to let users answer trivia ques
 
 ## Some Screenshots from the Program 
 ![image](https://user-images.githubusercontent.com/95561298/180748135-11817d42-d383-4640-824a-85a6b93ec868.png)
-
+.
+.
+.
 ![image](https://user-images.githubusercontent.com/95561298/180748337-3a30be24-e61c-41b4-80e1-1c955976adea.png)
 
 # Week 9: Flask (Finance)
