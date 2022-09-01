@@ -1,3 +1,4 @@
+# CS50's Introduction to Computer Science
 # Wizard Pong 
 Wizard Pong is a game that is created for CS50 Problem Set 0. The game is created by using Scratch. The users can press up and down keys to control the broomstick in the game. Score 8 points to win. 
 
