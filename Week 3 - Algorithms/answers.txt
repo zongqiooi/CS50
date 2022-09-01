@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: bubble sort has the best time complexity for sorted text file, which is O(n)
+
+sort2 uses: merge sort
+
+How do you know?: merge sort has the best time complexity for reversed text file, which is O(n log n)
+
+sort3 uses: selection sort
+
+How do you know?: selection sort has the worst time complexity for sorted text file, which is O(n^2)
