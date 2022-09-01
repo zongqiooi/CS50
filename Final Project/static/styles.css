@@ -1,0 +1,82 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .red
+{
+    color: #ea433b;
+}
+nav .navbar-brand .yellow
+{
+    color: #f5b82e;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
+
+/* Table for history */
+.table
+{
+    width: 70%;
+    margin: auto;
+}
+
+/* Food wheel */
+.wheel
+{
+    font-family: Open Sans;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    overflow: hidden;
+    background: rgb(60,60,242);
+    background: white;
+    background-size: cover;
+}
+
+text
+{
+    font-family: sans-serif;
+    font-size: 20px;
+    pointer-events: none;
+}
+
+#chart
+{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 20%;
+    left: 38%;
+}
+
+/* Pop up message after wheel ended spinning */
+#question
+{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    top: 21%;
+    left: 66%;
+}
+
+#question h1
+{
+    font-size: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 50%;
+    -webkit-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+}
